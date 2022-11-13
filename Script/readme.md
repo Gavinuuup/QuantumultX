@@ -1,4 +1,4 @@
-**全部是收集自各路大神，没有自己原创**
+**全部是收集自各路大神，或者再自己稍微改动，没有自己原创**
 
 京东·淘宝历史价来自 **[yichahucha](https://github.com/yichahucha/surge/blob/master/README.md#surge)**  
 * 京东：  
