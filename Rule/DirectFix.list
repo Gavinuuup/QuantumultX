@@ -1,0 +1,14 @@
+payload:
+  - HOST-SUFFIX,hhiec.com
+  - HOST-SUFFIX,zbiptv.com
+  - HOST-SUFFIX,52kukan.net
+  - HOST-SUFFIX,7xdy.com
+  - HOST-KEYWORD,galaxyappstore
+  - HOST-SUFFIX,qqarc.com
+# ntp 服务
+  - HOST-SUFFIX,ntp.org
+#  - DST-PORT,123
+#
+  - HOST-SUFFIX,reflix.top
+  - HOST-SUFFIX,snfaka.com
+  - HOST-SUFFIX,feiyangdigital.top
