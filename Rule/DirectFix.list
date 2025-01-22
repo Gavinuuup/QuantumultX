@@ -1,13 +1,12 @@
-payload:
-  - HOST-SUFFIX,hhiec.com,direct
-  - HOST-SUFFIX,zbiptv.com,direct
-  - HOST-SUFFIX,52kukan.net,direct
-  - HOST-SUFFIX,7xdy.com,direct
-  - HOST-KEYWORD,galaxyappstore,direct
-  - HOST-SUFFIX,qqarc.com,direct
+HOST-SUFFIX,hhiec.com,direct
+HOST-SUFFIX,zbiptv.com,direct
+HOST-SUFFIX,52kukan.net,direct
+HOST-SUFFIX,7xdy.com,direct
+HOST-KEYWORD,galaxyappstore,direct
+HOST-SUFFIX,qqarc.com,direct
 # ntp 服务
-  - HOST-SUFFIX,ntp.org,direct
+HOST-SUFFIX,ntp.org,direct
 #
-  - HOST-SUFFIX,reflix.top,direct
-  - HOST-SUFFIX,snfaka.com,direct
-  - HOST-SUFFIX,feiyangdigital.top,direct
+HOST-SUFFIX,reflix.top,direct
+HOST-SUFFIX,snfaka.com,direct
+HOST-SUFFIX,feiyangdigital.top,direct
