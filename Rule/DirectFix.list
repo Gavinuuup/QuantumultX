@@ -13,6 +13,7 @@ HOST-SUFFIX,snfaka.com,DirectFix
 HOST-SUFFIX,feiyangdigital.top,DirectFix
 HOST-SUFFIX,zbds.top,DirectFix
 # 游侠
-HOST-SUFFIX,llren.com
-HOST-SUFFIX,youxia.net
-HOST-SUFFIX,youxi*.com
+HOST-SUFFIX,llren.com,DirectFix
+HOST-SUFFIX,youxia.net,DirectFix
+HOST-SUFFIX,youxi233.com,DirectFix
+HOST-SUFFIX,youxi299.com,DirectFix
