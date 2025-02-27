@@ -15,5 +15,7 @@ HOST-SUFFIX,zbds.top,DirectFix
 # 游侠
 HOST-SUFFIX,llren.com,DirectFix
 HOST-SUFFIX,youxia.net,DirectFix
-HOST-SUFFIX,youxi233.com,DirectFix
-HOST-SUFFIX,youxi299.com,DirectFix
+HOST-KEYWORDX,youxi,DirectFix
+# 影视工厂
+HOST-KEYWORD,ysgc,DirectFix
+HOST-SUFFIX,tjihua.com,DirectFix
