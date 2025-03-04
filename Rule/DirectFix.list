@@ -3,7 +3,6 @@ HOST-SUFFIX,hhiec.com,DirectFix
 HOST-SUFFIX,zbiptv.com,DirectFix
 HOST-SUFFIX,52kukan.net,DirectFix
 HOST-SUFFIX,7xdy.com,DirectFix
-HOST-KEYWORD,galaxyappstore,DirectFix
 HOST-SUFFIX,qqarc.com,DirectFix
 # ntp 服务
 HOST-SUFFIX,ntp.org,DirectFix
@@ -25,3 +24,15 @@ HOST-SUFFIX,kekys.com,DirectFix
 HOST-SUFFIX,play-cdn3.com,DirectFix
 # lucky
 HOST-SUFFIX,lucky.gd,DirectFix
+# KHMD
+HOST-SUFFIX,khkj.xyz,DirectFix
+# 123
+HOST-SUFFIX,beizi.biz,DirectFix
+# via
+HOST-SUFFIX,viayoo.com,DirectFix
+# 三星
+HOST-KEYWORD,galaxyappstore,DirectFix
+HOST-SUFFIX,samsungapps.com,DirectFix
+# 适配音乐
+HOST-SUFFIX,fxh1.com,DirectFix
+HOST-SUFFIX,90nw.com,DirectFix
