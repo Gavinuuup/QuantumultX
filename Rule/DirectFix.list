@@ -36,3 +36,5 @@ HOST-SUFFIX,samsungapps.com,DirectFix
 # 适配音乐
 HOST-SUFFIX,fxh1.com,DirectFix
 HOST-SUFFIX,90nw.com,DirectFix
+# 555电影
+HOST-KEYWORD,ryplay,DirectFix
