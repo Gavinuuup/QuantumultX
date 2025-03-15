@@ -32,6 +32,13 @@ HOST-SUFFIX,vulpes.one,AI
 HOST-SUFFIX,mozz.us,AI
 HOST-SUFFIX,conman.org,AI
 HOST-SUFFIX,bortzmeyer.org,AI
+HOST-SUFFIX,groq.com,AI
+HOST-SUFFIX,difyai.com,AI
+HOST-SUFFIX,genspark.ai,AI
+
+HOST-SUFFIX,grok.com,AI
+HOST-SUFFIX,x.com,AI
+HOST-SUFFIX,x.ai,AI
 
 HOST-SUFFIX,googleapis.com,AI
 HOST-SUFFIX,googleapis.cn,AI
