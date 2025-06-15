@@ -37,3 +37,7 @@ HOST-SUFFIX,fxh1.com,DirectFix
 HOST-SUFFIX,90nw.com,DirectFix
 # 555电影
 HOST-KEYWORD,ryplay,DirectFix
+# 肥羊
+HOST,myip.ipip.net,DirectFix
+# 涩涩动漫
+HOST-KEYWORD,91acg,DirectFix
