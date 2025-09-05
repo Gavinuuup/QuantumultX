@@ -42,3 +42,9 @@ HOST,myip.ipip.net,DirectFix
 HOST,r.inews.qq.com,DirectFix
 # 涩涩动漫
 HOST-KEYWORD,91acg,DirectFix
+# 淘宝游戏
+HOST-KEYWORD,galsanggame,DirectFix
+# hinas
+HOST-SUFFIX,ecoo.top,DirectFix
+# 念音网
+HOST-SUFFIX,nianyin.com,DirectFix
