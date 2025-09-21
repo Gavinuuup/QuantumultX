@@ -75,4 +75,6 @@ HOST-SUFFIX,whamon.com,DirectFix
 # 小众软件
 HOST-SUFFIX,appinn.net,DirectFix
 # 支付宝commerce.yundps.com
-HOST-KEYWORD,yundps
+HOST-KEYWORD,yundps,DirectFix
+# 好学文苑网
+HOST-SUFFIX,hxw.red,DirectFix
