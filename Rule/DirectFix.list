@@ -74,3 +74,5 @@ HOST-KEYWORD,80sgod,DirectFix
 HOST-SUFFIX,whamon.com,DirectFix
 # 小众软件
 HOST-SUFFIX,appinn.net,DirectFix
+# 支付宝commerce.yundps.com
+HOST-KEYWORD,yundps
