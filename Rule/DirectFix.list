@@ -64,6 +64,9 @@ HOST-SUFFIX,seedhub.cc,DirectFix
 HOST-SUFFIX,libvio.mov,DirectFix
 HOST-SUFFIX,wsrv.nl,DirectFix
 HOST-SUFFIX,cmliussss.net,DirectFix
+HOST-SUFFIX,ikunzyapi.com,DirectFix
+HOST-SUFFIX,ffzyapi.com,DirectFix
+HOST-SUFFIX,imgwolong.com,DirectFix
 HOST-KEYWORD,jianpianupdate,DirectFix
 HOST-KEYWORD,yunso,DirectFix
 HOST-KEYWORD,suoniapi,DirectFix
@@ -74,6 +77,9 @@ HOST-KEYWORD,cdnlz22,DirectFix
 HOST-KEYWORD,80sgod,DirectFix
 HOST-KEYWORD,rrcdnbf2,DirectFix
 HOST-KEYWORD,tyyswimg,DirectFix
+HOST-KEYWORD,hongniuzy,DirectFix
+HOST-KEYWORD,ffzy-play,DirectFix
+HOST-KEYWORD,wlcdn,DirectFix
 # 铜钟音乐
 HOST-SUFFIX,whamon.com,DirectFix
 # 小众软件
