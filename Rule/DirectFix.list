@@ -49,6 +49,9 @@ HOST-KEYWORD,galsanggame,DirectFix
 HOST-SUFFIX,ecoo.top,DirectFix
 # 念音网
 HOST-SUFFIX,nianyin.com,DirectFix
+# iptv 订阅
+HOST-SUFFIX,ottiptv.cc,DirectFix
+HOST-SUFFIX,iill.top,DirectFix
 # 点播源
 HOST-SUFFIX,4kfm.com,DirectFix
 HOST-SUFFIX,leijing.xyz,DirectFix
@@ -80,12 +83,11 @@ HOST-KEYWORD,tyyswimg,DirectFix
 HOST-KEYWORD,hongniuzy,DirectFix
 HOST-KEYWORD,ffzy-play,DirectFix
 HOST-KEYWORD,wlcdn,DirectFix
-HOST-KEYWORD,ottiptv,DirectFix
 # 铜钟音乐
 HOST-SUFFIX,whamon.com,DirectFix
 # 小众软件
 HOST-SUFFIX,appinn.net,DirectFix
-# 支付宝commerce.yundps.com
+# 支付宝 commerce.yundps.com
 HOST-KEYWORD,yundps,DirectFix
 # 好学文苑网
 HOST-SUFFIX,hxw.red,DirectFix
