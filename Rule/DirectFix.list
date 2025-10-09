@@ -75,6 +75,7 @@ HOST-SUFFIX,xmflv.com,DirectFix
 HOST-SUFFIX,bingdou.vip,DirectFix
 HOST-SUFFIX,2xiaopan.fun,DirectFix
 HOST-SUFFIX,miqk.cc,DirectFix
+HOST-SUFFIX,360zyx.vip,DirectFix
 HOST-KEYWORD,jianpianupdate,DirectFix
 HOST-KEYWORD,yunso,DirectFix
 HOST-KEYWORD,suoniapi,DirectFix
@@ -88,6 +89,9 @@ HOST-KEYWORD,tyyswimg,DirectFix
 HOST-KEYWORD,hongniuzy,DirectFix
 HOST-KEYWORD,ffzy-play,DirectFix
 HOST-KEYWORD,wlcdn,DirectFix
+HOST-KEYWORD,play-cdn,DirectFix
+HOST-KEYWORD,modujx,DirectFix
+HOST-KEYWORD,ffzyread,DirectFix
 # 铜钟音乐
 HOST-SUFFIX,whamon.com,DirectFix
 # 小众软件
