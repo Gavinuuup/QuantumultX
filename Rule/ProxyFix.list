@@ -4,3 +4,6 @@ HOST,bptv.freetv.top,ProxyFix
 # HOST-suffix,onlyfans.com,ProxyFix
 HOST-keyword,onlyfans,ProxyFix
 HOST-SUFFIX,fanart.tv,ProxyFix
+
+# 虚空终端
+HOST-SUFFIX,metacubex.one,ProxyFix
