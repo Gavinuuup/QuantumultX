@@ -2,10 +2,10 @@
 HOST,bptv.freetv.top,ProxyFix
 
 # HOST-suffix,onlyfans.com,ProxyFix
-HOST-keyword,onlyfans,ProxyFix
+HOST-KEYWORD,onlyfans,ProxyFix
 HOST-SUFFIX,fanart.tv,ProxyFix
 
 # 虚空终端
 HOST-SUFFIX,metacubex.one,ProxyFix
 # dnsleaktest
-HOST-SUFFIX,dnsleaktest.com,ProxyFix
+HOST-KEYWORD,dnsleaktest,ProxyFix
