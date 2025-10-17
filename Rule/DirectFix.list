@@ -5,6 +5,8 @@ HOST-SUFFIX,7xdy.com,DirectFix
 HOST-SUFFIX,qqarc.com,DirectFix
 # ntp 服务
 HOST-SUFFIX,ntp.org,DirectFix
+# github 直连镜像
+HOST-SUFFIX,gh-proxy.com,DirectFix
 #
 HOST-SUFFIX,reflix.top,DirectFix
 HOST-SUFFIX,snfaka.com,DirectFix
