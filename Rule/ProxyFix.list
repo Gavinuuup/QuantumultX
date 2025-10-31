@@ -10,4 +10,4 @@ HOST-SUFFIX,metacubex.one,ProxyFix
 # dnsleaktest
 HOST-KEYWORD,dnsleaktest,ProxyFix
 # ping0
-DOMAIN-SUFFIX,ping0.cc
+DOMAIN-SUFFIX,ping0.cc,ProxyFix
