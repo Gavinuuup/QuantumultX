@@ -1,0 +1,8 @@
+# Apple AI
+HOST-SUFFIX,guzzoni.apple.com,AIFix
+HOST-SUFFIX,smoot.apple.com,AIFix
+HOST-SUFFIX,apple-relay.cloudflare.com,AIFix
+HOST-SUFFIX,apple-relay.fastly-edge.com,AIFix
+HOST-SUFFIX,сp4.cloudflare.com,AIFix
+HOST-SUFFIX,apple-relay.apple.com,AIFix
+HOST-SUFFIX,gspe1-ssl.ls.apple.com,AIFix
