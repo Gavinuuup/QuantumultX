@@ -8,7 +8,7 @@ HOST-SUFFIX,fanart.tv,ProxyFix
 # 虚空终端
 HOST-SUFFIX,metacubex.one,ProxyFix
 # dnsleaktest
-HOST-KEYWORD,dnsleaktest,ProxyFix
+HOST-SUFFIX,dnsleaktest.com,ProxyFix
 # ping0
 DOMAIN-SUFFIX,ping0.cc,ProxyFix
 
