@@ -21,3 +21,5 @@ HOST-SUFFIX,gspe1-ssl.ls.apple.com,ProxyFix
 HOST-SUFFIX,cpmg23.com,ProxyFix
 # 独角鲸
 HOST-SUFFIX,fuckip.me,ProxyFix
+# iplark
+HOST-SUFFIX,iplark.com,ProxyFix
