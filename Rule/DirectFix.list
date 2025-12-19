@@ -51,9 +51,12 @@ HOST-KEYWORD,galsanggame,DirectFix
 HOST-SUFFIX,ecoo.top,DirectFix
 # 念音网
 HOST-SUFFIX,nianyin.com,DirectFix
-# iptv 订阅
+# iptv
 HOST-SUFFIX,ottiptv.cc,DirectFix
-HOST-SUFFIX,iill.top,DirectFix
+HOST-SUFFIX,iill.top,DirectFix 
+HOST-SUFFIX,hardcoremedia.xyz,DirectFix
+HOST-SUFFIX,ottc.pro,DirectFix
+HOST-SUFFIX,douzhicloud.site,DirectFix
 # 点播源
 HOST-SUFFIX,4kfm.com,DirectFix
 HOST-SUFFIX,leijing.xyz,DirectFix
