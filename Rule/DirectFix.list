@@ -135,7 +135,7 @@ HOST-KEYWORD,modujx,DirectFix
 HOST-KEYWORD,ffzyread,DirectFix
 HOST-KEYWORD,lz-cdn,DirectFix
 HOST-KEYWORD,ffzy-online,DirectFix
-IP-CIDR,23.237.228.130/32,DirectFix
+IP-CIDR,23.237.228.0/24,DirectFix
 # 铜钟音乐
 HOST-SUFFIX,whamon.com,DirectFix
 # 小众软件
