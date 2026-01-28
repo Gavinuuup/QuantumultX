@@ -140,8 +140,9 @@ IP-CIDR,23.237.228.0/24,DirectFix
 HOST-SUFFIX,whamon.com,DirectFix
 # 小众软件
 HOST-SUFFIX,appinn.net,DirectFix
-# 支付宝 commerce.yundps.com
-HOST-KEYWORD,yundps,DirectFix
+# 支付宝
+HOST-SUFFIX,yundps.com,DirectFix
+HOST-SUFFIX,quhaotui.com,DirectFix
 # 好学文苑网
 HOST-SUFFIX,hxw.red,DirectFix
 # Xcloudv音乐
