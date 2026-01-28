@@ -1,79 +1,78 @@
-# 点播源
-HOST-SUFFIX,4kfm.com,DirectFix
-HOST-SUFFIX,leijing.xyz,DirectFix
-HOST-SUFFIX,haimian.eu.org,DirectFix
-HOST-SUFFIX,miaosou.fun,DirectFix
-HOST-SUFFIX,hunhepan.com,DirectFix
-HOST-SUFFIX,qkpanso.com,DirectFix
-HOST-SUFFIX,qianfan.app,DirectFix
-HOST-SUFFIX,pikasoo.top,DirectFix
-HOST-SUFFIX,yiso.fun,DirectFix
-HOST-SUFFIX,4kfox.com,DirectFix
-HOST-SUFFIX,seedhub.cc,DirectFix
-HOST-SUFFIX,libvio.mov,DirectFix
-HOST-SUFFIX,wsrv.nl,DirectFix
-HOST-SUFFIX,cmliussss.net,DirectFix
-HOST-SUFFIX,ikunzyapi.com,DirectFix
-HOST-SUFFIX,ffzyapi.com,DirectFix
-HOST-SUFFIX,imgwolong.com,DirectFix
-HOST-SUFFIX,xpgtv.com,DirectFix
-HOST-SUFFIX,xmflv.com,DirectFix
-HOST-SUFFIX,bingdou.vip,DirectFix
-HOST-SUFFIX,2xiaopan.fun,DirectFix
-HOST-SUFFIX,miqk.cc,DirectFix
-HOST-SUFFIX,360zyx.vip,DirectFix
-HOST-SUFFIX,zjkrmv.vip,DirectFix
-HOST-SUFFIX,cloudflare88.eu.org,DirectFix
-HOST-SUFFIX,qyjzlh.com,DirectFix
-HOST-SUFFIX,lbys.app,DirectFix
-HOST-SUFFIX,auete.com,DirectFix
-HOST-SUFFIX,lzzypic.com,DirectFix
-HOST-SUFFIX,yydsys.top,DirectFix
-HOST-SUFFIX,aside.top,DirectFix
-HOST-SUFFIX,bttwo.me,DirectFix
-HOST-SUFFIX,dmmiku.com,DirectFix
-HOST-SUFFIX,cz01.org,DirectFix
-HOST-SUFFIX,hkybqufgh.com,DirectFix
-HOST-SUFFIX,libvio.link,DirectFix
-HOST-SUFFIX,lzpanx.com,DirectFix
-HOST-SUFFIX,misoso.cc,DirectFix
-HOST-SUFFIX,pansearch.me,DirectFix
-HOST-SUFFIX,xb6v.com,DirectFix
-HOST-SUFFIX,ysmfyl.top,DirectFix
-HOST-SUFFIX,dm84.net,DirectFix
-HOST-SUFFIX,feimo.fun,DirectFix
-HOST-SUFFIX,gejiba.com,DirectFix
-HOST-SUFFIX,934evf.com,DirectFix
-HOST-SUFFIX,xpgtv.net,DirectFix
-HOST-SUFFIX,milvdou.fun,DirectFix
-HOST-SUFFIX,ztcuc.com,DirectFix
-HOST-SUFFIX,seagmcdn.com,DirectFix
-HOST-SUFFIX,blbtgg.com,DirectFix
-HOST-SUFFIX,maoyanplay.top,DirectFix
-HOST-SUFFIX,xiaomiai.site,DirectFix
-HOST-SUFFIX,misopan.fun,DirectFix
-HOST-SUFFIX,56dm.cc,DirectFix
-HOST-SUFFIX,ntdm8.com,DirectFix
-HOST-SUFFIX,ryzypics.com,DirectFix
-HOST-SUFFIX,guoluche.com,DirectFix
-HOST-SUFFIX,mytvapp.cc,DirectFix
-HOST-SUFFIX,dytt-live.com,DirectFix
-HOST-KEYWORD,jianpianupdate,DirectFix
-HOST-KEYWORD,yunso,DirectFix
-HOST-KEYWORD,suoniapi,DirectFix
-HOST-KEYWORD,tianyiso,DirectFix
-HOST-KEYWORD,yinruifei,DirectFix
-HOST-KEYWORD,wogg,DirectFix
-HOST-KEYWORD,cdnlz22,DirectFix
-HOST-KEYWORD,80sgod,DirectFix
-HOST-KEYWORD,rrcdnbf2,DirectFix
-HOST-KEYWORD,tyyswimg,DirectFix
-HOST-KEYWORD,hongniuzy,DirectFix
-HOST-KEYWORD,ffzy-play,DirectFix
-HOST-KEYWORD,wlcdn,DirectFix
-HOST-KEYWORD,play-cdn,DirectFix
-HOST-KEYWORD,modujx,DirectFix
-HOST-KEYWORD,ffzyread,DirectFix
-HOST-KEYWORD,lz-cdn,DirectFix
-HOST-KEYWORD,ffzy-online,DirectFix
-IP-CIDR,23.237.228.0/24,DirectFix
+HOST-SUFFIX,hhiec.com,DirectFix
+HOST-SUFFIX,zbiptv.com,DirectFix
+HOST-SUFFIX,52kukan.net,DirectFix
+HOST-SUFFIX,7xdy.com,DirectFix
+HOST-SUFFIX,qqarc.com,DirectFix
+# ntp 服务
+HOST-SUFFIX,ntp.org,DirectFix
+# github 直连镜像
+HOST-SUFFIX,gh-proxy.com,DirectFix
+#
+HOST-SUFFIX,reflix.top,DirectFix
+HOST-SUFFIX,snfaka.com,DirectFix
+HOST-SUFFIX,feiyangdigital.top,DirectFix
+HOST-SUFFIX,zbds.top,DirectFix
+HOST-SUFFIX,lianxiwo.top,DirectFix
+# 游侠
+HOST-SUFFIX,llren.com,DirectFix
+HOST-SUFFIX,youxia.net,DirectFix
+HOST-KEYWORD,youxi,DirectFix
+# 影视工厂
+HOST-KEYWORD,ysgc,DirectFix
+HOST-SUFFIX,tjihua.com,DirectFix
+#
+HOST-SUFFIX,keke1.app,DirectFix
+HOST-SUFFIX,kekys.com,DirectFix
+HOST-SUFFIX,play-cdn3.com,DirectFix
+# lucky
+HOST-SUFFIX,lucky.gd,DirectFix
+# KHMD
+HOST-SUFFIX,khkj.xyz,DirectFix
+# 123
+HOST-SUFFIX,beizi.biz,DirectFix
+# via
+HOST-SUFFIX,viayoo.com,DirectFix
+# 三星
+HOST-KEYWORD,galaxyappstore,DirectFix
+HOST-SUFFIX,samsungapps.com,DirectFix
+# 适配音乐
+HOST-SUFFIX,fxh1.com,DirectFix
+HOST-SUFFIX,90nw.com,DirectFix
+# 555电影
+HOST-KEYWORD,ryplay,DirectFix
+# 肥羊
+HOST,myip.ipip.net,DirectFix
+HOST,r.inews.qq.com,DirectFix
+# 涩涩动漫
+HOST-KEYWORD,91acg,DirectFix
+# 淘宝游戏
+HOST-KEYWORD,galsanggame,DirectFix
+# hinas
+HOST-SUFFIX,ecoo.top,DirectFix
+# 念音网
+HOST-SUFFIX,nianyin.com,DirectFix
+# iptv
+HOST-SUFFIX,ottiptv.cc,DirectFix
+HOST-SUFFIX,iill.top,DirectFix 
+HOST-SUFFIX,hardcoremedia.xyz,DirectFix
+HOST-SUFFIX,ottc.pro,DirectFix
+HOST-SUFFIX,douzhicloud.site,DirectFix
+# 铜钟音乐
+HOST-SUFFIX,whamon.com,DirectFix
+# 小众软件
+HOST-SUFFIX,appinn.net,DirectFix
+# 支付宝
+HOST-SUFFIX,yundps.com,DirectFix
+HOST-SUFFIX,quhaotui.com,DirectFix
+# 好学文苑网
+HOST-SUFFIX,hxw.red,DirectFix
+# Xcloudv音乐
+HOST-KEYWORD,xcloudv,DirectFix
+# 音乐魔石
+HOST-KEYWORD,yym4,DirectFix
+# 直播源论坛
+HOST-SUFFIX,livecodes.vip,DirectFix
+# PT站
+HOST-SUFFIX,pterclub.net,DirectFix
+# kelee
+HOST-SUFFIX,kelee.one,DirectFix
