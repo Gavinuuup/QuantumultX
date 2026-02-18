@@ -241,5 +241,6 @@ HOST-KEYWORD,modujx,TVFix
 HOST-KEYWORD,ffzyread,TVFix
 HOST-KEYWORD,lz-cdn,TVFix
 HOST-KEYWORD,ffzy-online,TVFix
+HOST,iptv.21dumbnas.top,TVFix
 IP-CIDR,23.237.228.0/24,TVFix,no-resolve
 IP-CIDR,156.238.203.0/24,TVFix,no-resolve
