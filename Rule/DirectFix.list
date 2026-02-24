@@ -79,6 +79,6 @@ HOST-SUFFIX,kelee.one,DirectFix
 #
 HOST-SUFFIX,openappfilter.com,DirectFix
 # 云盘类
-HOST-SUFFIX,qileso.com
-HOST-SUFFIX,xiaotusoso.com
-HOST-SUFFIX,duanjugou.top
+HOST-SUFFIX,qileso.com,DirectFix
+HOST-SUFFIX,xiaotusoso.com,DirectFix
+HOST-SUFFIX,duanjugou.top,DirectFix
