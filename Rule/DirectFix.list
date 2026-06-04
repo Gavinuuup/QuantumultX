@@ -5,6 +5,9 @@ HOST-SUFFIX,zbiptv.com,DirectFix
 HOST-SUFFIX,52kukan.net,DirectFix
 HOST-SUFFIX,7xdy.com,DirectFix
 HOST-SUFFIX,qqarc.com,DirectFix
+# 沉浸式翻译
+HOST-SUFFIX,imtintl.com,DirectFix
+HOST-SUFFIX,immersivetranslate.com,DirectFix
 # ntp 服务
 HOST-SUFFIX,ntp.org,DirectFix
 # github 直连镜像
@@ -47,8 +50,11 @@ HOST,myip.ipip.net,DirectFix
 HOST,r.inews.qq.com,DirectFix
 # 涩涩动漫
 HOST-KEYWORD,91acg,DirectFix
-# 淘宝游戏
+# 淘宝
 HOST-KEYWORD,galsanggame,DirectFix
+HOST-SUFFIX,mmstat.com,DirectFix
+HOST-SUFFIX,mediav.com,DirectFix
+HOST-SUFFIX,aliapp.org,DirectFix
 # hinas
 HOST-SUFFIX,ecoo.top,DirectFix
 # 念音网
