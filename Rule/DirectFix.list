@@ -5,9 +5,6 @@ HOST-SUFFIX,zbiptv.com,DirectFix
 HOST-SUFFIX,52kukan.net,DirectFix
 HOST-SUFFIX,7xdy.com,DirectFix
 HOST-SUFFIX,qqarc.com,DirectFix
-# 沉浸式翻译
-HOST-SUFFIX,imtintl.com,DirectFix
-HOST-SUFFIX,immersivetranslate.com,DirectFix
 # ntp 服务
 HOST-SUFFIX,ntp.org,DirectFix
 # github 直连镜像
