@@ -218,7 +218,8 @@ HOST-SUFFIX,mytvapp.cc,TVFix
 HOST-SUFFIX,dytt-live.com,TVFix
 HOST-SUFFIX,dytt-img.com,TVFix
 HOST-SUFFIX,dytt-cine.com,TVFix
-HOST-SUFFIX,fengbao8.com,TVFix
+HOST-KEYWORD,fengbao,TVFix
+HOST-KEYWORD,baofeng,TVFix
 HOST-SUFFIX,bfbfvip.com,TVFix
 HOST-SUFFIX,qwe132456.cc,TVFix
 HOST-SUFFIX,hdzyk-cdn.com,TVFix
