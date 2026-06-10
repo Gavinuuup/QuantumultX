@@ -69,6 +69,8 @@ HOST-SUFFIX,appinn.net,DirectFix
 # 支付宝
 HOST-SUFFIX,yundps.com,DirectFix
 HOST-SUFFIX,quhaotui.com,DirectFix
+HOST-SUFFIX,quchuangsh.com,DirectFix
+HOST-SUFFIX,pop2me.com,DirectFix
 # 好学文苑网
 HOST-SUFFIX,hxw.red,DirectFix
 # Xcloudv音乐
