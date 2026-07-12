@@ -5,6 +5,8 @@ HOST-SUFFIX,zbiptv.com,DirectFix
 HOST-SUFFIX,52kukan.net,DirectFix
 HOST-SUFFIX,7xdy.com,DirectFix
 HOST-SUFFIX,qqarc.com,DirectFix
+HOST-SUFFIX,itmop.com,DirectFix
+HOST-SUFFIX,itmopcdn.com,DirectFix
 # ntp 服务
 HOST-SUFFIX,ntp.org,DirectFix
 # github 直连镜像
