@@ -9,6 +9,7 @@ HOST-SUFFIX,baidustatic.com,DirectFix
 HOST-SUFFIX,itmop.com,DirectFix
 HOST-SUFFIX,itmopcdn.com,DirectFix
 HOST-SUFFIX,hwxz999.com,DirectFix
+HOST-SUFFIX,ppkkzz.com,DirectFix
 # ntp 服务
 HOST-SUFFIX,ntp.org,DirectFix
 # github 直连镜像
