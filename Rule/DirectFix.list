@@ -64,7 +64,6 @@ HOST-SUFFIX,ecoo.top,DirectFix
 # 念音网
 HOST-SUFFIX,nianyin.com,DirectFix
 # iptv
-HOST-SUFFIX,ottiptv.cc,DirectFix
 HOST-SUFFIX,iill.top,DirectFix 
 HOST-SUFFIX,hardcoremedia.xyz,DirectFix
 HOST-SUFFIX,ottc.pro,DirectFix
@@ -107,3 +106,5 @@ HOST-SUFFIX,luckfast.com,DirectFix
 HOST-SUFFIX,myqcloud.com,DirectFix
 # InsCode(快马)
 HOST-SUFFIX,inscode.net,DirectFix
+# 优6壁纸
+HOST-SUFFIX,youliu.cc,DirectFix
