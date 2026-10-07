@@ -22,21 +22,12 @@ HOST-SUFFIX,snfaka.com,DirectFix
 HOST-SUFFIX,feiyangdigital.top,DirectFix
 HOST-SUFFIX,zbds.top,DirectFix
 HOST-SUFFIX,lianxiwo.top,DirectFix
-# 游侠
-HOST-SUFFIX,llren.com,DirectFix
-HOST-SUFFIX,youxia.net,DirectFix
-HOST-KEYWORD,youxi,DirectFix
-# 影视工厂
-HOST-KEYWORD,ysgc,DirectFix
-HOST-SUFFIX,tjihua.com,DirectFix
 #
 HOST-SUFFIX,keke1.app,DirectFix
 HOST-SUFFIX,kekys.com,DirectFix
 HOST-SUFFIX,play-cdn3.com,DirectFix
 # lucky
 HOST-SUFFIX,lucky.gd,DirectFix
-# KHMD
-HOST-SUFFIX,khkj.xyz,DirectFix
 # 123
 HOST-SUFFIX,beizi.biz,DirectFix
 # via
@@ -47,8 +38,6 @@ HOST-SUFFIX,samsungapps.com,DirectFix
 # 适配音乐
 HOST-SUFFIX,fxh1.com,DirectFix
 HOST-SUFFIX,90nw.com,DirectFix
-# 555电影
-HOST-KEYWORD,ryplay,DirectFix
 # 肥羊
 HOST,myip.ipip.net,DirectFix
 HOST,r.inews.qq.com,DirectFix
