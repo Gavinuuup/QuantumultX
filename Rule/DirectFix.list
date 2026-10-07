@@ -55,7 +55,7 @@ HOST,r.inews.qq.com,DirectFix
 # 涩涩动漫
 HOST-KEYWORD,91acg,DirectFix
 # 淘宝
-HOST-KEYWORD,galsanggame,DirectFix
+HOST-SUFFIX,galsanggame.com,DirectFix
 HOST-SUFFIX,mmstat.com,DirectFix
 HOST-SUFFIX,mediav.com,DirectFix
 HOST-SUFFIX,aliapp.org,DirectFix
@@ -68,8 +68,6 @@ HOST-SUFFIX,iill.top,DirectFix
 HOST-SUFFIX,hardcoremedia.xyz,DirectFix
 HOST-SUFFIX,ottc.pro,DirectFix
 HOST-SUFFIX,douzhicloud.site,DirectFix
-# 铜钟音乐
-HOST-SUFFIX,whamon.com,DirectFix
 # 小众软件
 HOST-SUFFIX,appinn.net,DirectFix
 # 支付宝
@@ -82,12 +80,8 @@ HOST-SUFFIX,tanwuya.com,DirectFix
 HOST-SUFFIX,boxiantech.com,DirectFix
 # 好学文苑网
 HOST-SUFFIX,hxw.red,DirectFix
-# Xcloudv音乐
-HOST-KEYWORD,xcloudv,DirectFix
 # 音乐魔石
-HOST-KEYWORD,yym4,DirectFix
-# 直播源论坛
-HOST-SUFFIX,livecodes.vip,DirectFix
+HOST-KEYWORD,yyms5,DirectFix
 # PT站
 HOST-SUFFIX,pterclub.net,DirectFix
 # kelee
