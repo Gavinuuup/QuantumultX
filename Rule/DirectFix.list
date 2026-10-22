@@ -102,6 +102,6 @@ HOST-SUFFIX,xn--ghqy5t5uf651b82d.com,DirectFix
 # 66办公
 HOST-SUFFIX,66office.com,DirectFix
 # 555影视
-HOST-SUFFIX,555k06.com
+HOST-SUFFIX,555k06.com,DirectFix
 # 天气 api
-HOST,api.open-meteo.com
+HOST,api.open-meteo.com,DirectFix
