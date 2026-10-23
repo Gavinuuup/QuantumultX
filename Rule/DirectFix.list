@@ -106,3 +106,5 @@ HOST-SUFFIX,555k06.com,DirectFix
 # 天气服务(大部分需要ip定位，所以必须加ipinfo)
 # HOST-SUFFIX,open-meteo.com,DirectFix
 # HOST-SUFFIX,ipinfo.io,DirectFix
+# 唐山热力
+HOST-SUFFIX,tsrlsf.com
