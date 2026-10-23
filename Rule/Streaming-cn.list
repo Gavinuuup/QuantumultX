@@ -273,5 +273,6 @@ HOST-SUFFIX,yzzy-api.com,Streaming-cn
 HOST-SUFFIX,dbzy5.com,Streaming-cn
 HOST-SUFFIX,slapibf.com,Streaming-cn
 HOST-SUFFIX,ryplay7.com,Streaming-cn
+HOST-SUFFIX,tvkoudai.com,Streaming-cn
 IP-CIDR,23.237.228.0/24,Streaming-cn,no-resolve
 IP-CIDR,156.238.203.0/24,Streaming-cn,no-resolve
