@@ -238,5 +238,5 @@ HOST-SUFFIX,antigravity-unleash.goog,AI
 HOST-SUFFIX,antigravity.google,AI
 HOST-SUFFIX,minimax.io,AI
 HOST-SUFFIX,chatgpt.site,AI
-IP-CIDR,160.79.104.0/23,no-resolve,AI
-IP6-CIDR,2607:6bc0::/48,no-resolve,AI
+IP-CIDR,160.79.104.0/23,AI,no-resolve
+IP6-CIDR,2607:6bc0::/48,AI,no-resolve
