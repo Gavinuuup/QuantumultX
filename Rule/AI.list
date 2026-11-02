@@ -121,7 +121,6 @@ HOST,api.iteracompute.com,AI
 HOST,api.koscompute.com,AI
 HOST,api.llama.com,AI
 HOST,api.lucidquery.com,AI
-HOST,imagine.meta.com,AI
 HOST,copilot.microsoft.com,AI
 HOST,api.modeloracle.com,AI
 HOST,api.morphllm.com,AI
@@ -238,5 +237,9 @@ HOST-SUFFIX,antigravity-unleash.goog,AI
 HOST-SUFFIX,antigravity.google,AI
 HOST-SUFFIX,minimax.io,AI
 HOST-SUFFIX,chatgpt.site,AI
+HOST-SUFFIX,muse.ai
+HOST-SUFFIX,metaaivm.com
+HOST-SUFFIX,meta.com
+HOST-SUFFIX,metaaiusercontent.com
 IP-CIDR,160.79.104.0/23,AI,no-resolve
 IP6-CIDR,2607:6bc0::/48,AI,no-resolve
