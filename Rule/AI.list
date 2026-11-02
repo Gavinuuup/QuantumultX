@@ -1,5 +1,5 @@
-# UpdateTime：2026-10-07 22:43:45
-# RuleCount：240
+# UpdateTime：2026-11-02 15:34:45
+# RuleCount：243
 HOST,oai.endpoints.kepler.ai.cloud.ovh.net,AI
 HOST,api.openai-compat.model-serving.eu01.onstackit.cloud,AI
 HOST,inference.generativeai.us-chicago-1.oci.oraclecloud.com,AI
