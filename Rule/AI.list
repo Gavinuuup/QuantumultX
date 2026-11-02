@@ -237,9 +237,9 @@ HOST-SUFFIX,antigravity-unleash.goog,AI
 HOST-SUFFIX,antigravity.google,AI
 HOST-SUFFIX,minimax.io,AI
 HOST-SUFFIX,chatgpt.site,AI
-HOST-SUFFIX,muse.ai
-HOST-SUFFIX,metaaivm.com
-HOST-SUFFIX,meta.com
-HOST-SUFFIX,metaaiusercontent.com
+HOST-SUFFIX,muse.ai,AI
+HOST-SUFFIX,metaaivm.com,AI
+HOST-SUFFIX,meta.com,AI
+HOST-SUFFIX,metaaiusercontent.com,AI
 IP-CIDR,160.79.104.0/23,AI,no-resolve
 IP6-CIDR,2607:6bc0::/48,AI,no-resolve
