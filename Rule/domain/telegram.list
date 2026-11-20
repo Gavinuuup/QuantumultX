@@ -1,0 +1,25 @@
+# Source: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/telegram.list
+# Policy: telegram
+# Total: 21
+
+HOST-SUFFIX,cdn-telegram.org,telegram
+HOST-SUFFIX,comments.app,telegram
+HOST-SUFFIX,contest.com,telegram
+HOST-SUFFIX,fragment.com,telegram
+HOST-SUFFIX,graph.org,telegram
+HOST-SUFFIX,quiz.directory,telegram
+HOST-SUFFIX,t.me,telegram
+HOST-SUFFIX,tdesktop.com,telegram
+HOST-SUFFIX,telega.one,telegram
+HOST-SUFFIX,telegra.ph,telegram
+HOST-SUFFIX,telegram-cdn.org,telegram
+HOST-SUFFIX,telegram.dog,telegram
+HOST-SUFFIX,telegram.me,telegram
+HOST-SUFFIX,telegram.org,telegram
+HOST-SUFFIX,telegram.space,telegram
+HOST-SUFFIX,telesco.pe,telegram
+HOST-SUFFIX,tg.dev,telegram
+HOST-SUFFIX,ton.org,telegram
+HOST-SUFFIX,toncenter.com,telegram
+HOST-SUFFIX,tx.me,telegram
+HOST-SUFFIX,usercontent.dev,telegram
