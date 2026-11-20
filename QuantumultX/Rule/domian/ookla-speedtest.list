@@ -1,0 +1,24 @@
+# Source: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/ookla-speedtest.list
+# Policy: ookla-speedtest
+# Total: 20
+
+HOST-SUFFIX,cdnst.net,ookla-speedtest
+HOST-SUFFIX,cellmaps.com,ookla-speedtest
+HOST-SUFFIX,ekahau.cloud,ookla-speedtest
+HOST-SUFFIX,ekahau.com,ookla-speedtest
+HOST-SUFFIX,ookla-speedtest-central.hgconair.hgc.com.hk,ookla-speedtest
+HOST-SUFFIX,ookla.com,ookla-speedtest
+HOST-SUFFIX,ooklaserver.net,ookla-speedtest
+HOST-SUFFIX,pingtest.net,ookla-speedtest
+HOST-SUFFIX,speedtest.app,ookla-speedtest
+HOST-SUFFIX,speedtest.cc,ookla-speedtest
+HOST-SUFFIX,speedtest.co,ookla-speedtest
+HOST-SUFFIX,speedtest.ee,ookla-speedtest
+HOST-SUFFIX,speedtest.in,ookla-speedtest
+HOST-SUFFIX,speedtest.me,ookla-speedtest
+HOST-SUFFIX,speedtest.net,ookla-speedtest
+HOST-SUFFIX,speedtest.ng,ookla-speedtest
+HOST-SUFFIX,speedtest.tv,ookla-speedtest
+HOST-SUFFIX,speedtestcustom.com,ookla-speedtest
+HOST-SUFFIX,webtest.net,ookla-speedtest
+HOST-SUFFIX,www.speedtest.net.cdn.cloudflare.net,ookla-speedtest
