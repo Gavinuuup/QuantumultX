@@ -1,11 +1,11 @@
-# 涩涩动漫,cnfix
+# 涩涩动漫
 HOST-KEYWORD,91acg,cnfix
-# 淘宝,cnfix
+# 淘宝
 HOST-KEYWORD,galsanggame,cnfix
-# 音乐魔石,cnfix
+# 音乐魔石
 HOST-WILDCARD,yyms*.*,cnfix
 
-# 点播源,cnfix
+# 点播源
 HOST-WILDCARD,*.dytt*.com,cnfix
 HOST-WILDCARD,*.lzcdn*.com,cnfix
 HOST-KEYWORD,fengbao,cnfix
@@ -31,7 +31,7 @@ HOST-KEYWORD,ffzy-online,cnfix
 IP-CIDR,23.237.228.0/24,cnfix,no-resolve
 IP-CIDR,156.238.203.0/24,cnfix,no-resolve
 
-# 其他,cnfix
+# 其他
 HOST-WILDCARD,windows-*.net,cnfix
 HOST-KEYWORD,.tmall.com,cnfix
 HOST-KEYWORD,alicdn,cnfix
