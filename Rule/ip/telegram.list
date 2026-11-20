@@ -10,7 +10,7 @@ IP-CIDR,91.108.4.0/22,telegram
 IP-CIDR,91.108.56.0/22,telegram
 IP-CIDR,91.108.8.0/21,telegram
 IP-CIDR,95.161.64.0/20,telegram
-IP-CIDR6,2001:67c:4e8::/48,telegram
-IP-CIDR6,2001:b28:f23c::/47,telegram
-IP-CIDR6,2001:b28:f23f::/48,telegram
-IP-CIDR6,2a0a:f280::/32,telegram
+IP6-CIDR,2001:67c:4e8::/48,telegram
+IP6-CIDR,2001:b28:f23c::/47,telegram
+IP6-CIDR,2001:b28:f23f::/48,telegram
+IP6-CIDR,2a0a:f280::/32,telegram
