@@ -137,7 +137,7 @@ DOMAIN_TYPE_MAP = {
 def detect_ip_type(value: str) -> str | None:
     try:
         net = ipaddress.ip_network(value, strict=False)
-        return "IP-CIDR6" if net.version == 6 else "IP-CIDR"
+        return "IP6-CIDR" if net.version == 6 else "IP-CIDR"
     except ValueError:
         return None
 
@@ -170,8 +170,8 @@ def convert_line(line: str, kind: str, policy: str) -> str | None:
             return format_ip_rule(ip_type, parts[0], policy, []) if ip_type else None
         rtype = parts[0].upper()
         val = parts[1]
-        if rtype in ("IP-CIDR", "IP-CIDR6"):
-            ip_type = detect_ip_type(val) or rtype
+        if rtype in ("IP-CIDR", "IP-CIDR6", "IP6-CIDR"):
+            ip_type = detect_ip_type(val) or ("IP6-CIDR" if "6" in rtype else "IP-CIDR")
             return format_ip_rule(ip_type, val, policy, parts[2:])
         return None
 
@@ -189,8 +189,8 @@ def convert_line(line: str, kind: str, policy: str) -> str | None:
     val = parts[1]
     if rtype in DOMAIN_TYPE_MAP:
         return f"{DOMAIN_TYPE_MAP[rtype]},{val},{policy}"
-    if rtype in ("IP-CIDR", "IP-CIDR6"):
-        ip_type = detect_ip_type(val) or rtype
+    if rtype in ("IP-CIDR", "IP-CIDR6", "IP6-CIDR"):
+        ip_type = detect_ip_type(val) or ("IP6-CIDR" if "6" in rtype else "IP-CIDR")
         return format_ip_rule(ip_type, val, policy, parts[2:])
 
     return None
