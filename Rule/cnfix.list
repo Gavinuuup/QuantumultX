@@ -28,8 +28,8 @@ HOST-KEYWORD,modujx,cnfix
 HOST-KEYWORD,ffzyread,cnfix
 HOST-KEYWORD,lz-cdn,cnfix
 HOST-KEYWORD,ffzy-online,cnfix
-IP-CIDR,23.237.228.0/24,no-resolve,cnfix
-IP-CIDR,156.238.203.0/24,no-resolve,cnfix
+IP-CIDR,23.237.228.0/24,cnfix,no-resolve
+IP-CIDR,156.238.203.0/24,cnfix,no-resolve
 
 # 其他,cnfix
 HOST-WILDCARD,windows-*.net,cnfix
