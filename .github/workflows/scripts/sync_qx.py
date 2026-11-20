@@ -1,6 +1,7 @@
 import ipaddress
 from pathlib import Path
 import re
+import sys
 import tempfile
 from urllib.parse import urlparse
 import requests
@@ -118,6 +119,9 @@ SOURCES = [
     ),
 ]
 
+# 按需为指定策略的 IP 规则默认附加 no-resolve
+NO_RESOLVE_IP_POLICIES = {"cn", "private"}
+
 DOMAIN_TYPE_MAP = {
     "DOMAIN": "HOST",
     "HOST": "HOST",
@@ -138,6 +142,14 @@ def detect_ip_type(value: str) -> str | None:
         return None
 
 
+def format_ip_rule(ip_type: str, val: str, policy: str, extra_flags: list[str]) -> str:
+    need_no_resolve = (policy in NO_RESOLVE_IP_POLICIES) or any(
+        p.lower() == "no-resolve" for p in extra_flags
+    )
+    suffix = ",no-resolve" if need_no_resolve else ""
+    return f"{ip_type},{val},{policy}{suffix}"
+
+
 def convert_line(line: str, kind: str, policy: str) -> str | None:
     s = line.strip()
     if not s or s.startswith(("#", "//", ";")):
@@ -155,26 +167,21 @@ def convert_line(line: str, kind: str, policy: str) -> str | None:
     if kind == "ip":
         if len(parts) == 1:
             ip_type = detect_ip_type(parts[0])
-            return f"{ip_type},{parts[0]},{policy}" if ip_type else None
+            return format_ip_rule(ip_type, parts[0], policy, []) if ip_type else None
         rtype = parts[0].upper()
         val = parts[1]
         if rtype in ("IP-CIDR", "IP-CIDR6"):
             ip_type = detect_ip_type(val) or rtype
-            has_no_resolve = any(p.lower() == "no-resolve" for p in parts[2:])
-            suffix = ",no-resolve" if has_no_resolve else ""
-            return f"{ip_type},{val},{policy}{suffix}"
+            return format_ip_rule(ip_type, val, policy, parts[2:])
         return None
 
     # kind == "domain"
     if len(parts) == 1:
         val = parts[0]
-        # 兼容部分规则集里混入的 IP/CIDR
         ip_type = detect_ip_type(val)
         if ip_type:
-            return f"{ip_type},{val},{policy}"
-        if val.startswith("+."):
-            return f"HOST-SUFFIX,{val[2:]},{policy}"
-        if val.startswith("*."):
+            return format_ip_rule(ip_type, val, policy, [])
+        if val.startswith(("+.", "*.")):
             return f"HOST-SUFFIX,{val[2:]},{policy}"
         return f"HOST-SUFFIX,{val},{policy}"
 
@@ -184,20 +191,20 @@ def convert_line(line: str, kind: str, policy: str) -> str | None:
         return f"{DOMAIN_TYPE_MAP[rtype]},{val},{policy}"
     if rtype in ("IP-CIDR", "IP-CIDR6"):
         ip_type = detect_ip_type(val) or rtype
-        has_no_resolve = any(p.lower() == "no-resolve" for p in parts[2:])
-        suffix = ",no-resolve" if has_no_resolve else ""
-        return f"{ip_type},{val},{policy}{suffix}"
+        return format_ip_rule(ip_type, val, policy, parts[2:])
 
     return None
 
 
 def main() -> None:
     headers = {"User-Agent": "Mozilla/5.0 (compatible; MihomoToQX/1.0)"}
+    success_count = 0
+
     with tempfile.TemporaryDirectory() as tmp:
         raw_dir = Path(tmp)
         for idx, (kind, url) in enumerate(SOURCES):
-            filename = Path(urlparse(url).path).name  # e.g. telegram.list
-            policy = Path(filename).stem  # e.g. telegram
+            filename = Path(urlparse(url).path).name
+            policy = Path(filename).stem
             raw_file = raw_dir / f"{kind}_{idx}_{filename}"
             out_dir = Path("Rule") / ("domain" if kind == "domain" else "ip")
             out_file = out_dir / filename
@@ -226,7 +233,12 @@ def main() -> None:
                 + ("\n" if sorted_rules else "")
             )
             out_file.write_text(content, encoding="utf-8")
+            success_count += 1
             print(f"[OK] {out_file} ({len(sorted_rules)} rules)")
+
+    if success_count == 0:
+        print("[ERROR] All rule sources failed to fetch or convert.")
+        sys.exit(1)
 
 
 if __name__ == "__main__":
