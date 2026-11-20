@@ -1,0 +1,41 @@
+name: Sync Mihomo Rules to Quantumult X
+
+on:
+  schedule:
+    - cron: "30 18 * * *" # 每天北京时间 02:30 (UTC 18:30)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout QuantumultX repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install requests
+        run: pip install requests
+
+      - name: Convert rules
+        run: python .github/workflows/scripts/sync_qx.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add QuantumultX/Rule
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: sync QuantumultX rulesets"
+            git push
+          else
+            echo "No changes to commit."
+          fi
