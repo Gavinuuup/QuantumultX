@@ -199,7 +199,7 @@ def main() -> None:
             filename = Path(urlparse(url).path).name  # e.g. telegram.list
             policy = Path(filename).stem  # e.g. telegram
             raw_file = raw_dir / f"{kind}_{idx}_{filename}"
-            out_dir = Path("QuantumultX/Rule") / ("domian" if kind == "domain" else "ip")
+            out_dir = Path("Rule") / ("domain" if kind == "domain" else "ip")
             out_file = out_dir / filename
 
             try:
