@@ -1,6 +1,6 @@
 # Source: https://raw.githubusercontent.com/Gavinuuup/Mihomo/main/rules/domain/AI.list
 # Policy: AI
-# Total: 300
+# Total: 301
 
 HOST-SUFFIX,agentclientprotocol.com,AI
 HOST-SUFFIX,ai.com,AI
@@ -135,6 +135,7 @@ HOST-SUFFIX,duck.ai,AI
 HOST-SUFFIX,edgeservices.bing.com,AI
 HOST-SUFFIX,elevenlabs.com,AI
 HOST-SUFFIX,elevenlabs.io,AI
+HOST-SUFFIX,elevenlabsusercontent.com,AI
 HOST-SUFFIX,envato-static.com,AI
 HOST-SUFFIX,envato.com,AI
 HOST-SUFFIX,envatousercontent.com,AI
