@@ -30,6 +30,9 @@ HOST-KEYWORD,lz-cdn,cnfix
 HOST-KEYWORD,ffzy-online,cnfix
 IP-CIDR,23.237.228.0/24,cnfix,no-resolve
 IP-CIDR,156.238.203.0/24,cnfix,no-resolve
+IP-CIDR,192.187.123.50/32,cnfix,no-resolve
+IP-CIDR,69.30.245.51/32,cnfix,no-resolve
+IP-CIDR,192.187.115.106/32,cnfix,no-resolve
 
 # 其他
 HOST-WILDCARD,windows-*.net,cnfix
