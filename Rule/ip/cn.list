@@ -1,6 +1,6 @@
 # Source: https://raw.githubusercontent.com/Gavinuuup/Mihomo/main/rules/ip/cn.list
 # Policy: cn
-# Total: 9665
+# Total: 9668
 
 IP-CIDR,1.0.1.0/24,cn,no-resolve
 IP-CIDR,1.0.2.0/23,cn,no-resolve
@@ -3500,6 +3500,8 @@ IP-CIDR,192.140.208.0/21,cn,no-resolve
 IP-CIDR,192.140.244.0/23,cn,no-resolve
 IP-CIDR,192.144.128.0/17,cn,no-resolve
 IP-CIDR,192.163.11.0/24,cn,no-resolve
+IP-CIDR,192.187.115.106/32,cn,no-resolve
+IP-CIDR,192.187.123.50/32,cn,no-resolve
 IP-CIDR,192.232.34.0/23,cn,no-resolve
 IP-CIDR,192.232.44.0/22,cn,no-resolve
 IP-CIDR,192.232.97.0/24,cn,no-resolve
@@ -6185,6 +6187,7 @@ IP-CIDR,69.230.192.0/18,cn,no-resolve
 IP-CIDR,69.231.128.0/18,cn,no-resolve
 IP-CIDR,69.234.192.0/18,cn,no-resolve
 IP-CIDR,69.235.128.0/18,cn,no-resolve
+IP-CIDR,69.30.245.51/32,cn,no-resolve
 IP-CIDR,71.131.192.0/18,cn,no-resolve
 IP-CIDR,71.132.0.0/18,cn,no-resolve
 IP-CIDR,71.136.64.0/18,cn,no-resolve

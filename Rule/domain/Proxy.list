@@ -1,6 +1,6 @@
 # Source: https://raw.githubusercontent.com/Gavinuuup/Mihomo/main/rules/domain/Proxy.list
 # Policy: Proxy
-# Total: 27238
+# Total: 27239
 
 HOST-SUFFIX,000webhost.com,Proxy
 HOST-SUFFIX,01.org,Proxy
@@ -13147,6 +13147,7 @@ HOST-SUFFIX,ipredator.se,Proxy
 HOST-SUFFIX,iproperty.com,Proxy
 HOST-SUFFIX,iproperty.com.my,Proxy
 HOST-SUFFIX,iproperty.com.sg,Proxy
+HOST-SUFFIX,iptv.yang-1989.xyz,Proxy
 HOST-SUFFIX,iptvbin.com,Proxy
 HOST-SUFFIX,ipvanish.com,Proxy
 HOST-SUFFIX,iqiyiavlive.buzz,Proxy
