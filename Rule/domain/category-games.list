@@ -1,6 +1,6 @@
 # Source: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/category-games.list
 # Policy: category-games
-# Total: 1062
+# Total: 1066
 
 HOST-SUFFIX,100classicbooks.com,category-games
 HOST-SUFFIX,17173.com,category-games
@@ -167,6 +167,7 @@ HOST-SUFFIX,cgyouxi.com,category-games
 HOST-SUFFIX,championshipseriesleague.com,category-games
 HOST-SUFFIX,changyou.com,category-games
 HOST-SUFFIX,chillingo.com,category-games
+HOST-SUFFIX,chunithm.wahlap.com,category-games
 HOST-SUFFIX,chunkbase.com,category-games
 HOST-SUFFIX,clash.com,category-games
 HOST-SUFFIX,clashmini.com,category-games
@@ -461,6 +462,7 @@ HOST-SUFFIX,maddenseason.info,category-games
 HOST-SUFFIX,maddenseason.net,category-games
 HOST-SUFFIX,maddenseason.org,category-games
 HOST-SUFFIX,mail4399.com,category-games
+HOST-SUFFIX,maimai.wahlap.com,category-games
 HOST-SUFFIX,maindown4399.com,category-games
 HOST-SUFFIX,makearmanotwar.com,category-games
 HOST-SUFFIX,marioandluigidreamteam.com,category-games
@@ -879,6 +881,7 @@ HOST-SUFFIX,tarkov.com,category-games
 HOST-SUFFIX,teamneedforspeed.com,category-games
 HOST-SUFFIX,tellmewhygame.com,category-games
 HOST-SUFFIX,testplus.cn,category-games
+HOST-SUFFIX,tgk-wcaime.wahlap.com,category-games
 HOST-SUFFIX,tgpro.top,category-games
 HOST-SUFFIX,tgprocs.net,category-games
 HOST-SUFFIX,thedreadwolfrises.com,category-games
@@ -960,6 +963,7 @@ HOST-SUFFIX,vrzwk.cn,category-games
 HOST-SUFFIX,vrzwk.com,category-games
 HOST-SUFFIX,vrzwk.net,category-games
 HOST-SUFFIX,vrzwk.top,category-games
+HOST-SUFFIX,wahlap.net,category-games
 HOST-SUFFIX,wanmei.com,category-games
 HOST-SUFFIX,wanwan4399.com,category-games
 HOST-SUFFIX,wargaming.com,category-games

@@ -1,6 +1,6 @@
 # Source: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/google.list
 # Policy: google
-# Total: 1052
+# Total: 1053
 
 HOST-SUFFIX,0emm.com,google
 HOST-SUFFIX,1e100.net,google
@@ -282,6 +282,7 @@ HOST-SUFFIX,gbiz,google
 HOST-SUFFIX,gcr.io,google
 HOST-SUFFIX,geminiweb-pa.clients.google.com,google
 HOST-SUFFIX,geminiweb-pa.clients6.google.com,google
+HOST-SUFFIX,gemma.ai,google
 HOST-SUFFIX,gerritcodereview.com,google
 HOST-SUFFIX,get.app,google
 HOST-SUFFIX,get.dev,google

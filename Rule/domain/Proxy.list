@@ -1,6 +1,6 @@
 # Source: https://raw.githubusercontent.com/Gavinuuup/Mihomo/main/rules/domain/Proxy.list
 # Policy: Proxy
-# Total: 27239
+# Total: 27240
 
 HOST-SUFFIX,000webhost.com,Proxy
 HOST-SUFFIX,01.org,Proxy
@@ -10058,6 +10058,7 @@ HOST-SUFFIX,gemfury.com,Proxy
 HOST-SUFFIX,gemini.com,Proxy
 HOST-SUFFIX,geminiweb-pa.clients.google.com,Proxy
 HOST-SUFFIX,geminiweb-pa.clients6.google.com,Proxy
+HOST-SUFFIX,gemma.ai,Proxy
 HOST-SUFFIX,gen.lib.rus.ec,Proxy
 HOST-SUFFIX,genbank.ru,Proxy
 HOST-SUFFIX,gencraft.com,Proxy
