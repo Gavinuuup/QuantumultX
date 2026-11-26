@@ -1,6 +1,6 @@
 # Source: https://raw.githubusercontent.com/Gavinuuup/Mihomo/main/rules/domain/Proxy.list
 # Policy: Proxy
-# Total: 27240
+# Total: 27245
 
 HOST-SUFFIX,000webhost.com,Proxy
 HOST-SUFFIX,01.org,Proxy
@@ -4893,6 +4893,7 @@ HOST-SUFFIX,cabletv.com.hk,Proxy
 HOST-SUFFIX,cabletvdirectv.com,Proxy
 HOST-SUFFIX,cachefly.com,Proxy
 HOST-SUFFIX,cachefly.net,Proxy
+HOST-SUFFIX,cachix.org,Proxy
 HOST-SUFFIX,cacnw.com,Proxy
 HOST-SUFFIX,cactusvpn.com,Proxy
 HOST-SUFFIX,cad-mep.com,Proxy
@@ -6078,6 +6079,7 @@ HOST-SUFFIX,coursera-for-business.org,Proxy
 HOST-SUFFIX,coursera.community,Proxy
 HOST-SUFFIX,coursera.help,Proxy
 HOST-SUFFIX,coursera.org,Proxy
+HOST-SUFFIX,courses.myecnu.org,Proxy
 HOST-SUFFIX,covenantswatch.org.tw,Proxy
 HOST-SUFFIX,coverartarchive.org,Proxy
 HOST-SUFFIX,covid19-rx.org,Proxy
@@ -8866,10 +8868,12 @@ HOST-SUFFIX,fastindianporn.com,Proxy
 HOST-SUFFIX,fastlane.ci,Proxy
 HOST-SUFFIX,fastlane.tools,Proxy
 HOST-SUFFIX,fastly-edge.com,Proxy
+HOST-SUFFIX,fastly-insights.com,Proxy
 HOST-SUFFIX,fastly-terrarium.com,Proxy
 HOST-SUFFIX,fastly.com,Proxy
 HOST-SUFFIX,fastly.io,Proxy
 HOST-SUFFIX,fastly.net,Proxy
+HOST-SUFFIX,fastlydns.net,Proxy
 HOST-SUFFIX,fastlylabs.com,Proxy
 HOST-SUFFIX,fastlylb.net,Proxy
 HOST-SUFFIX,fastpic.ru,Proxy
@@ -24530,6 +24534,7 @@ HOST-SUFFIX,viu.com,Proxy
 HOST-SUFFIX,viu.tv,Proxy
 HOST-SUFFIX,vivaldi.com,Proxy
 HOST-SUFFIX,vivaxnxx.com,Proxy
+HOST-SUFFIX,vivox.com,Proxy
 HOST-SUFFIX,vivthomas.com,Proxy
 HOST-SUFFIX,vixen.com,Proxy
 HOST-SUFFIX,vixengroup.com,Proxy
