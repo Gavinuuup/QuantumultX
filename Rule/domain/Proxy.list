@@ -1,6 +1,6 @@
 # Source: https://raw.githubusercontent.com/Gavinuuup/Mihomo/main/rules/domain/Proxy.list
 # Policy: Proxy
-# Total: 27245
+# Total: 27256
 
 HOST-SUFFIX,000webhost.com,Proxy
 HOST-SUFFIX,01.org,Proxy
@@ -15238,12 +15238,14 @@ HOST-SUFFIX,megaad.nz,Proxy
 HOST-SUFFIX,megacamz.com,Proxy
 HOST-SUFFIX,megaeth.com,Proxy
 HOST-SUFFIX,megafilmporno.com,Proxy
+HOST-SUFFIX,megafon.cloud,Proxy
 HOST-SUFFIX,megafon.com,Proxy
 HOST-SUFFIX,megafon.ru,Proxy
 HOST-SUFFIX,megafonpro.ru,Proxy
 HOST-SUFFIX,megalodon.jp,Proxy
 HOST-SUFFIX,megamon.co.kr,Proxy
 HOST-SUFFIX,megapay.nz,Proxy
+HOST-SUFFIX,megapbx.ru,Proxy
 HOST-SUFFIX,megaphone.fm,Proxy
 HOST-SUFFIX,megapornfreehd.com,Proxy
 HOST-SUFFIX,megaporno.com.br,Proxy
@@ -15251,6 +15253,7 @@ HOST-SUFFIX,megapornpics.com,Proxy
 HOST-SUFFIX,megaproxy.com,Proxy
 HOST-SUFFIX,megas4.com,Proxy
 HOST-SUFFIX,megasrv.de,Proxy
+HOST-SUFFIX,megatech-it.ru,Proxy
 HOST-SUFFIX,megatitsminka.com,Proxy
 HOST-SUFFIX,megogo.net,Proxy
 HOST-SUFFIX,megurineluka.com,Proxy
@@ -15345,6 +15348,7 @@ HOST-SUFFIX,mgo-images.com,Proxy
 HOST-SUFFIX,mgo.com,Proxy
 HOST-SUFFIX,mgoon.com,Proxy
 HOST-SUFFIX,mgstage.com,Proxy
+HOST-SUFFIX,mgts.ru,Proxy
 HOST-SUFFIX,mh4u.org,Proxy
 HOST-SUFFIX,mhcb.ru,Proxy
 HOST-SUFFIX,mhcbr.ru,Proxy
@@ -15916,6 +15920,7 @@ HOST-SUFFIX,mobile.de,Proxy
 HOST-SUFFIX,mobile01.com,Proxy
 HOST-SUFFIX,mobilefacebook.com,Proxy
 HOST-SUFFIX,mobileicq.com,Proxy
+HOST-SUFFIX,mobileid.ru,Proxy
 HOST-SUFFIX,mobileinternational.com,Proxy
 HOST-SUFFIX,mobilelive-hamivideo.cdn.hinet.net,Proxy
 HOST-SUFFIX,mobilemarketo.com,Proxy
@@ -16318,6 +16323,7 @@ HOST-SUFFIX,mulheresafoder.com,Proxy
 HOST-SUFFIX,mullvad.net,Proxy
 HOST-SUFFIX,mult34.com,Proxy
 HOST-SUFFIX,multicurrencycashpassport.com,Proxy
+HOST-SUFFIX,multifon.ru,Proxy
 HOST-SUFFIX,multiply.com,Proxy
 HOST-SUFFIX,multiplydiversity.com,Proxy
 HOST-SUFFIX,multporn.net,Proxy
@@ -17587,6 +17593,7 @@ HOST-SUFFIX,o365weve.com,Proxy
 HOST-SUFFIX,o3o.ca,Proxy
 HOST-SUFFIX,o3t.ru,Proxy
 HOST-SUFFIX,o3team.ru,Proxy
+HOST-SUFFIX,o7.com,Proxy
 HOST-SUFFIX,oaistatic.com,Proxy
 HOST-SUFFIX,oaistatsig.com,Proxy
 HOST-SUFFIX,oaiusercontent.com,Proxy
@@ -17794,6 +17801,7 @@ HOST-SUFFIX,onion.city,Proxy
 HOST-SUFFIX,onion.ly,Proxy
 HOST-SUFFIX,onionshare.org,Proxy
 HOST-SUFFIX,onkakao.net,Proxy
+HOST-SUFFIX,onlime.ru,Proxy
 HOST-SUFFIX,online-deals.net,Proxy
 HOST-SUFFIX,online-instagram.com,Proxy
 HOST-SUFFIX,online.recoveryversion.org,Proxy
@@ -20176,6 +20184,7 @@ HOST-SUFFIX,rosemarydoll.com,Proxy
 HOST-SUFFIX,roshy.tv,Proxy
 HOST-SUFFIX,rossiyasegodnya.com,Proxy
 HOST-SUFFIX,rostaxi.org,Proxy
+HOST-SUFFIX,rostelecom-rb.ru,Proxy
 HOST-SUFFIX,rostelecom.ru,Proxy
 HOST-SUFFIX,rou.video,Proxy
 HOST-SUFFIX,roudao6.buzz,Proxy
@@ -21725,6 +21734,7 @@ HOST-SUFFIX,spatial.io,Proxy
 HOST-SUFFIX,spb.com,Proxy
 HOST-SUFFIX,spbexchange.ru,Proxy
 HOST-SUFFIX,spcc-sp.com,Proxy
+HOST-SUFFIX,spd-mgts.ru,Proxy
 HOST-SUFFIX,speakerdeck.com,Proxy
 HOST-SUFFIX,spearhead.kr,Proxy
 HOST-SUFFIX,spectator.ppy.sh,Proxy
@@ -26026,6 +26036,7 @@ HOST-SUFFIX,xn--czq75pvv1aj5c.org,Proxy
 HOST-SUFFIX,xn--d1abkf4ap.fun,Proxy
 HOST-SUFFIX,xn--d1acpjx3f.xn--p1ai,Proxy
 HOST-SUFFIX,xn--d4ty0ojsqzfd.com,Proxy
+HOST-SUFFIX,xn--e1aapchhekkk.xn--p1ai,Proxy
 HOST-SUFFIX,xn--e1adjldbbpv.xn--90ais,Proxy
 HOST-SUFFIX,xn--e1aigb.xn--p1ai,Proxy
 HOST-SUFFIX,xn--fiq80y.hk,Proxy
