@@ -1,6 +1,6 @@
 # Source: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/microsoft.list
 # Policy: microsoft
-# Total: 757
+# Total: 758
 
 HOST-SUFFIX,1drv.com,microsoft
 HOST-SUFFIX,21vbc.com,microsoft
@@ -24,6 +24,7 @@ HOST-SUFFIX,aria.ms,microsoft
 HOST-SUFFIX,asp.net,microsoft
 HOST-SUFFIX,aspnetcdn.com,microsoft
 HOST-SUFFIX,atom.io,microsoft
+HOST-SUFFIX,aurora-customization-usw2.lithium.com,microsoft
 HOST-SUFFIX,az764295.vo.msecnd.net,microsoft
 HOST-SUFFIX,azchcdna.com,microsoft
 HOST-SUFFIX,azchcdnb.com,microsoft
